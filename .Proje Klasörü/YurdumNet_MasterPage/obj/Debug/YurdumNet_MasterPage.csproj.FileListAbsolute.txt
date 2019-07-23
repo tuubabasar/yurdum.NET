@@ -1,0 +1,472 @@
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll.config
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.pdb
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csc.exe
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csc.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csc.rsp
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csi.exe
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csi.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csi.rsp
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.AppContext.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Console.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Claims.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\vbc.exe
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\vbc.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\vbc.rsp
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Helpers.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Mvc.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Razor.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Razor.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Helpers.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Mvc.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Razor.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csprojAssemblyReference.cache
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CoreCompileInputs.cache
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CopyComplete
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.pdb
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll.config
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.pdb
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csc.exe
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csc.exe.config
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csc.rsp
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csi.exe
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csi.exe.config
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\csi.rsp
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.AppContext.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Console.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Claims.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\vbc.exe
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\vbc.exe.config
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\vbc.rsp
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Helpers.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Mvc.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Razor.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Razor.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Helpers.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\System.Web.Mvc.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Razor.resources.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csprojAssemblyReference.cache
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CoreCompileInputs.cache
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CopyComplete
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.pdb
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.dll
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.xml
+C:\Users\muratkaia\Desktop\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.dll
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.xml
+C:\Users\muratkaia\source\repos\YurdumNet_MasterPage\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll.config
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.pdb
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\csc.exe
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\csc.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\csc.rsp
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\csi.exe
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\csi.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\csi.rsp
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.AppContext.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Console.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Security.Claims.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\vbc.exe
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\vbc.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\vbc.rsp
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\EntityFramework.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Helpers.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Mvc.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Razor.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Webpages.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\EntityFramework.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Razor.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Webpages.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Helpers.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\System.Web.Mvc.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\tr\System.Web.Razor.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csprojAssemblyReference.cache
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CoreCompileInputs.cache
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CopyComplete
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\source\repos\YurdumNet 29.06.19\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.pdb
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll.config
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.pdb
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csc.exe
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csc.exe.config
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csc.rsp
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csi.exe
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csi.exe.config
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csi.rsp
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.AppContext.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Console.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Claims.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\vbc.exe
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\vbc.exe.config
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\vbc.rsp
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Helpers.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Mvc.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Razor.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Razor.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Helpers.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Mvc.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Razor.resources.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csprojAssemblyReference.cache
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CoreCompileInputs.cache
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CopyComplete
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.dll
+C:\Users\muratkaia\Desktop\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.pdb
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll.config
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.pdb
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csc.exe
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csc.exe.config
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csc.rsp
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csi.exe
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csi.exe.config
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\csi.rsp
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.AppContext.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Console.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\vbc.exe
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\vbc.exe.config
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\vbc.rsp
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Helpers.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Mvc.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Razor.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Razor.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Helpers.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\System.Web.Mvc.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csproj.CopyComplete
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.dll
+C:\Users\Section2\Desktop\Yurdum Net Murat KAYA\Yurdum Net Murat KAYA\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.pdb
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll.config
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\YurdumNet_MasterPage.pdb
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\csc.exe
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\csc.exe.config
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\csc.rsp
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\csi.exe
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\csi.exe.config
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\csi.rsp
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.AppContext.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Collections.Immutable.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Console.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.IO.Compression.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.IO.Pipes.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Reflection.Metadata.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Security.AccessControl.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Security.Claims.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.ValueTuple.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\vbc.exe
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\vbc.exe.config
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\vbc.rsp
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\roslyn\VBCSCompiler.exe.config
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\EntityFramework.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\Microsoft.Web.Infrastructure.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Helpers.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Mvc.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Razor.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Webpages.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\EntityFramework.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\EntityFramework.SqlServer.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Razor.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Webpages.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Webpages.Deployment.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Webpages.Razor.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Helpers.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\System.Web.Mvc.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\tr\System.Web.Razor.resources.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.resources.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Deployment.resources.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\tr\System.Web.Webpages.Razor.resources.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\tr\System.Web.Helpers.resources.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\bin\tr\System.Web.Mvc.resources.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.csprojResolveAssemblyReference.cache
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.dll
+G:\YurdumNET Murat Kaya (Güncel)\.Proje Klasörü\YurdumNet_MasterPage\obj\Debug\YurdumNet_MasterPage.pdb

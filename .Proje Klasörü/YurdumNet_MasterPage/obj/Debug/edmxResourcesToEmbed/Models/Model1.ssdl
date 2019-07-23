@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="YurdumNETModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Degerlendirmeler">
+    <Key>
+      <PropertyRef Name="DegerlendirmeID" />
+    </Key>
+    <Property Name="DegerlendirmeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Yorum" Type="nvarchar" MaxLength="1000" Nullable="false" />
+    <Property Name="Rating" Type="int" Nullable="false" />
+    <Property Name="YurtID" Type="int" Nullable="false" />
+    <Property Name="Adi" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Soyadi" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Mail" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Tarih" Type="date" />
+  </EntityType>
+  <EntityType Name="Iletisim">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mesaj" Type="nvarchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sehirler">
+    <Key>
+      <PropertyRef Name="SehirID" />
+    </Key>
+    <Property Name="SehirID" Type="int" Nullable="false" />
+    <Property Name="SehirAdi" Type="nvarchar" MaxLength="25" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Universiteler">
+    <Key>
+      <PropertyRef Name="UniversiteID" />
+    </Key>
+    <Property Name="UniversiteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UniversiteAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SehirID" Type="int" Nullable="false" />
+    <Property Name="Konum" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="YurtEkle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adı" Type="nvarchar" MaxLength="30" />
+    <Property Name="Soyadi" Type="nvarchar" MaxLength="30" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="20" />
+    <Property Name="YurtAdi" Type="nvarchar" MaxLength="60" />
+    <Property Name="Adres" Type="nvarchar" MaxLength="300" />
+    <Property Name="FotoYolu" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="YurtFotograflari">
+    <Key>
+      <PropertyRef Name="FotoID" />
+    </Key>
+    <Property Name="FotoID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YurtID" Type="int" Nullable="false" />
+    <Property Name="FotoYolu" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Yurtlar">
+    <Key>
+      <PropertyRef Name="YurtID" />
+    </Key>
+    <Property Name="YurtID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YurtAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SehirID" Type="int" Nullable="false" />
+    <Property Name="Adres" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Konum" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="YurtSahibiID" Type="int" Nullable="false" />
+    <Property Name="Telefon" Type="char" MaxLength="16" />
+    <Property Name="FotografYolu" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="AylikFiyat" Type="money" Nullable="false" />
+    <Property Name="YurtTipi" Type="nvarchar" MaxLength="5" />
+  </EntityType>
+  <EntityType Name="YurtOzellikleri">
+    <Key>
+      <PropertyRef Name="YurtID" />
+    </Key>
+    <Property Name="YurtID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="wi-fi" Type="char" MaxLength="3" />
+    <Property Name="Kahvalti" Type="char" MaxLength="3" />
+    <Property Name="Aksam Yemegi" Type="char" MaxLength="3" />
+    <Property Name="Kantin" Type="char" MaxLength="3" />
+    <Property Name="Tv Odasi" Type="char" MaxLength="3" />
+    <Property Name="Bir Kisilik" Type="char" MaxLength="3" />
+    <Property Name="Iki Kisilik" Type="char" MaxLength="3" />
+    <Property Name="Uc Kisilik" Type="char" MaxLength="3" />
+    <Property Name="Dort Kisilik" Type="char" MaxLength="3" />
+    <Property Name="Merkezi Isitma" Type="char" MaxLength="3" />
+    <Property Name="Revir" Type="char" MaxLength="3" />
+    <Property Name="Mini Buzdolabi" Type="char" MaxLength="3" />
+    <Property Name="Yangin Merdiveni" Type="char" MaxLength="3" />
+    <Property Name="Utu Odasi" Type="char" MaxLength="3" />
+    <Property Name="Camasir Odasi" Type="char" MaxLength="3" />
+    <Property Name="Bilgisayar Odasi" Type="char" MaxLength="3" />
+    <Property Name="Bahce" Type="char" MaxLength="3" />
+    <Property Name="Kitaplik" Type="char" MaxLength="3" />
+    <Property Name="Klima" Type="char" MaxLength="3" />
+    <Property Name="Asansor" Type="char" MaxLength="3" />
+    <Property Name="Jenerator" Type="char" MaxLength="3" />
+    <Property Name="Siginak" Type="char" MaxLength="3" />
+    <Property Name="Kamera-Kayit" Type="char" MaxLength="3" />
+    <Property Name="Kartli Giris" Type="char" MaxLength="3" />
+    <Property Name="Fitness Salonu" Type="char" MaxLength="3" />
+    <Property Name="Masa Tenisi" Type="char" MaxLength="3" />
+    <Property Name="Bilardo" Type="char" MaxLength="3" />
+    <Property Name="Havuz" Type="char" MaxLength="3" />
+    <Property Name="Satranc" Type="char" MaxLength="3" />
+    <Property Name="OzellikAdi" Type="nvarchar" MaxLength="70" />
+  </EntityType>
+  <EntityType Name="YurtSahipleri">
+    <Key>
+      <PropertyRef Name="SahipID" />
+    </Key>
+    <Property Name="SahipID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SahipAdiSoyadi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SahipTel" Type="char" MaxLength="16" />
+    <Property Name="SahipMail" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Degerlendirmeler_Yurtlar">
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="1" />
+    <End Role="Degerlendirmeler" Type="Self.Degerlendirmeler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yurtlar">
+        <PropertyRef Name="YurtID" />
+      </Principal>
+      <Dependent Role="Degerlendirmeler">
+        <PropertyRef Name="YurtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Universiteler_Sehirler1">
+    <End Role="Sehirler" Type="Self.Sehirler" Multiplicity="1" />
+    <End Role="Universiteler" Type="Self.Universiteler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sehirler">
+        <PropertyRef Name="SehirID" />
+      </Principal>
+      <Dependent Role="Universiteler">
+        <PropertyRef Name="SehirID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_YurtFotograflari_Yurtlar">
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="1" />
+    <End Role="YurtFotograflari" Type="Self.YurtFotograflari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yurtlar">
+        <PropertyRef Name="YurtID" />
+      </Principal>
+      <Dependent Role="YurtFotograflari">
+        <PropertyRef Name="YurtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yurtlar_Sehirler1">
+    <End Role="Sehirler" Type="Self.Sehirler" Multiplicity="1" />
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sehirler">
+        <PropertyRef Name="SehirID" />
+      </Principal>
+      <Dependent Role="Yurtlar">
+        <PropertyRef Name="SehirID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yurtlar_YurtSahipleri">
+    <End Role="YurtSahipleri" Type="Self.YurtSahipleri" Multiplicity="1" />
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="YurtSahipleri">
+        <PropertyRef Name="SahipID" />
+      </Principal>
+      <Dependent Role="Yurtlar">
+        <PropertyRef Name="YurtSahibiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_YurtOzellikleri_Yurtlar">
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="1" />
+    <End Role="YurtOzellikleri" Type="Self.YurtOzellikleri" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Yurtlar">
+        <PropertyRef Name="YurtID" />
+      </Principal>
+      <Dependent Role="YurtOzellikleri">
+        <PropertyRef Name="YurtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="YurdumNETModelStoreContainer">
+    <EntitySet Name="Degerlendirmeler" EntityType="Self.Degerlendirmeler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Iletisim" EntityType="Self.Iletisim" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sehirler" EntityType="Self.Sehirler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Universiteler" EntityType="Self.Universiteler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="YurtEkle" EntityType="Self.YurtEkle" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="YurtFotograflari" EntityType="Self.YurtFotograflari" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yurtlar" EntityType="Self.Yurtlar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="YurtOzellikleri" EntityType="Self.YurtOzellikleri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="YurtSahipleri" EntityType="Self.YurtSahipleri" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Degerlendirmeler_Yurtlar" Association="Self.FK_Degerlendirmeler_Yurtlar">
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+      <End Role="Degerlendirmeler" EntitySet="Degerlendirmeler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Universiteler_Sehirler1" Association="Self.FK_Universiteler_Sehirler1">
+      <End Role="Sehirler" EntitySet="Sehirler" />
+      <End Role="Universiteler" EntitySet="Universiteler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_YurtFotograflari_Yurtlar" Association="Self.FK_YurtFotograflari_Yurtlar">
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+      <End Role="YurtFotograflari" EntitySet="YurtFotograflari" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yurtlar_Sehirler1" Association="Self.FK_Yurtlar_Sehirler1">
+      <End Role="Sehirler" EntitySet="Sehirler" />
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yurtlar_YurtSahipleri" Association="Self.FK_Yurtlar_YurtSahipleri">
+      <End Role="YurtSahipleri" EntitySet="YurtSahipleri" />
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_YurtOzellikleri_Yurtlar" Association="Self.FK_YurtOzellikleri_Yurtlar">
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+      <End Role="YurtOzellikleri" EntitySet="YurtOzellikleri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

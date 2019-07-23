@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="YurdumNETModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Degerlendirmeler">
+    <Key>
+      <PropertyRef Name="DegerlendirmeID" />
+    </Key>
+    <Property Name="DegerlendirmeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Yorum" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Rating" Type="Int32" Nullable="false" />
+    <Property Name="YurtID" Type="Int32" Nullable="false" />
+    <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyadi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Yurtlar" Relationship="Self.FK_Degerlendirmeler_Yurtlar" FromRole="Degerlendirmeler" ToRole="Yurtlar" />
+  </EntityType>
+  <EntityType Name="Iletisim">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Mesaj" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sehirler">
+    <Key>
+      <PropertyRef Name="SehirID" />
+    </Key>
+    <Property Name="SehirID" Type="Int32" Nullable="false" />
+    <Property Name="SehirAdi" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Universiteler" Relationship="Self.FK_Universiteler_Sehirler1" FromRole="Sehirler" ToRole="Universiteler" />
+    <NavigationProperty Name="Yurtlar" Relationship="Self.FK_Yurtlar_Sehirler1" FromRole="Sehirler" ToRole="Yurtlar" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Universiteler">
+    <Key>
+      <PropertyRef Name="UniversiteID" />
+    </Key>
+    <Property Name="UniversiteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UniversiteAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SehirID" Type="Int32" Nullable="false" />
+    <Property Name="Konum" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Sehirler" Relationship="Self.FK_Universiteler_Sehirler1" FromRole="Universiteler" ToRole="Sehirler" />
+  </EntityType>
+  <EntityType Name="YurtEkle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adı" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="YurtAdi" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="Adres" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+    <Property Name="FotoYolu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="YurtFotograflari">
+    <Key>
+      <PropertyRef Name="FotoID" />
+    </Key>
+    <Property Name="FotoID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YurtID" Type="Int32" Nullable="false" />
+    <Property Name="FotoYolu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Yurtlar" Relationship="Self.FK_YurtFotograflari_Yurtlar" FromRole="YurtFotograflari" ToRole="Yurtlar" />
+  </EntityType>
+  <EntityType Name="Yurtlar">
+    <Key>
+      <PropertyRef Name="YurtID" />
+    </Key>
+    <Property Name="YurtID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YurtAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SehirID" Type="Int32" Nullable="false" />
+    <Property Name="Adres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Konum" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="YurtSahibiID" Type="Int32" Nullable="false" />
+    <Property Name="Telefon" Type="String" MaxLength="16" FixedLength="true" Unicode="false" />
+    <Property Name="FotografYolu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AylikFiyat" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="YurtTipi" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Degerlendirmeler" Relationship="Self.FK_Degerlendirmeler_Yurtlar" FromRole="Yurtlar" ToRole="Degerlendirmeler" />
+    <NavigationProperty Name="Sehirler" Relationship="Self.FK_Yurtlar_Sehirler1" FromRole="Yurtlar" ToRole="Sehirler" />
+    <NavigationProperty Name="YurtFotograflari" Relationship="Self.FK_YurtFotograflari_Yurtlar" FromRole="Yurtlar" ToRole="YurtFotograflari" />
+    <NavigationProperty Name="YurtSahipleri" Relationship="Self.FK_Yurtlar_YurtSahipleri" FromRole="Yurtlar" ToRole="YurtSahipleri" />
+    <NavigationProperty Name="YurtOzellikleri" Relationship="Self.FK_YurtOzellikleri_Yurtlar" FromRole="Yurtlar" ToRole="YurtOzellikleri" />
+  </EntityType>
+  <EntityType Name="YurtOzellikleri">
+    <Key>
+      <PropertyRef Name="YurtID" />
+    </Key>
+    <Property Name="YurtID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="wi_fi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Kahvalti" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Aksam_Yemegi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Kantin" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Tv_Odasi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Bir_Kisilik" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Iki_Kisilik" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Uc_Kisilik" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Dort_Kisilik" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Merkezi_Isitma" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Revir" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Mini_Buzdolabi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Yangin_Merdiveni" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Utu_Odasi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Camasir_Odasi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Bilgisayar_Odasi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Bahce" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Kitaplik" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Klima" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Asansor" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Jenerator" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Siginak" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Kamera_Kayit" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Kartli_Giris" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Fitness_Salonu" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Masa_Tenisi" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Bilardo" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Havuz" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="Satranc" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Name="OzellikAdi" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Yurtlar" Relationship="Self.FK_YurtOzellikleri_Yurtlar" FromRole="YurtOzellikleri" ToRole="Yurtlar" />
+  </EntityType>
+  <EntityType Name="YurtSahipleri">
+    <Key>
+      <PropertyRef Name="SahipID" />
+    </Key>
+    <Property Name="SahipID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SahipAdiSoyadi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SahipTel" Type="String" MaxLength="16" FixedLength="true" Unicode="false" />
+    <Property Name="SahipMail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Yurtlar" Relationship="Self.FK_Yurtlar_YurtSahipleri" FromRole="YurtSahipleri" ToRole="Yurtlar" />
+  </EntityType>
+  <Association Name="FK_Degerlendirmeler_Yurtlar">
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="1" />
+    <End Role="Degerlendirmeler" Type="Self.Degerlendirmeler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yurtlar">
+        <PropertyRef Name="YurtID" />
+      </Principal>
+      <Dependent Role="Degerlendirmeler">
+        <PropertyRef Name="YurtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Universiteler_Sehirler1">
+    <End Role="Sehirler" Type="Self.Sehirler" Multiplicity="1" />
+    <End Role="Universiteler" Type="Self.Universiteler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sehirler">
+        <PropertyRef Name="SehirID" />
+      </Principal>
+      <Dependent Role="Universiteler">
+        <PropertyRef Name="SehirID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yurtlar_Sehirler1">
+    <End Role="Sehirler" Type="Self.Sehirler" Multiplicity="1" />
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sehirler">
+        <PropertyRef Name="SehirID" />
+      </Principal>
+      <Dependent Role="Yurtlar">
+        <PropertyRef Name="SehirID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_YurtFotograflari_Yurtlar">
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="1" />
+    <End Role="YurtFotograflari" Type="Self.YurtFotograflari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yurtlar">
+        <PropertyRef Name="YurtID" />
+      </Principal>
+      <Dependent Role="YurtFotograflari">
+        <PropertyRef Name="YurtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yurtlar_YurtSahipleri">
+    <End Role="YurtSahipleri" Type="Self.YurtSahipleri" Multiplicity="1" />
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="YurtSahipleri">
+        <PropertyRef Name="SahipID" />
+      </Principal>
+      <Dependent Role="Yurtlar">
+        <PropertyRef Name="YurtSahibiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_YurtOzellikleri_Yurtlar">
+    <End Role="Yurtlar" Type="Self.Yurtlar" Multiplicity="1" />
+    <End Role="YurtOzellikleri" Type="Self.YurtOzellikleri" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Yurtlar">
+        <PropertyRef Name="YurtID" />
+      </Principal>
+      <Dependent Role="YurtOzellikleri">
+        <PropertyRef Name="YurtID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="YurdumNETEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Degerlendirmeler" EntityType="Self.Degerlendirmeler" />
+    <EntitySet Name="Iletisim" EntityType="Self.Iletisim" />
+    <EntitySet Name="Sehirler" EntityType="Self.Sehirler" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Universiteler" EntityType="Self.Universiteler" />
+    <EntitySet Name="YurtEkle" EntityType="Self.YurtEkle" />
+    <EntitySet Name="YurtFotograflari" EntityType="Self.YurtFotograflari" />
+    <EntitySet Name="Yurtlar" EntityType="Self.Yurtlar" />
+    <EntitySet Name="YurtOzellikleri" EntityType="Self.YurtOzellikleri" />
+    <EntitySet Name="YurtSahipleri" EntityType="Self.YurtSahipleri" />
+    <AssociationSet Name="FK_Degerlendirmeler_Yurtlar" Association="Self.FK_Degerlendirmeler_Yurtlar">
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+      <End Role="Degerlendirmeler" EntitySet="Degerlendirmeler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Universiteler_Sehirler1" Association="Self.FK_Universiteler_Sehirler1">
+      <End Role="Sehirler" EntitySet="Sehirler" />
+      <End Role="Universiteler" EntitySet="Universiteler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yurtlar_Sehirler1" Association="Self.FK_Yurtlar_Sehirler1">
+      <End Role="Sehirler" EntitySet="Sehirler" />
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_YurtFotograflari_Yurtlar" Association="Self.FK_YurtFotograflari_Yurtlar">
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+      <End Role="YurtFotograflari" EntitySet="YurtFotograflari" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yurtlar_YurtSahipleri" Association="Self.FK_Yurtlar_YurtSahipleri">
+      <End Role="YurtSahipleri" EntitySet="YurtSahipleri" />
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_YurtOzellikleri_Yurtlar" Association="Self.FK_YurtOzellikleri_Yurtlar">
+      <End Role="Yurtlar" EntitySet="Yurtlar" />
+      <End Role="YurtOzellikleri" EntitySet="YurtOzellikleri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
